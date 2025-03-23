@@ -40,6 +40,7 @@
   "devDependencies": {
     "@glutinum/cli": "^0.12.0",
     "@structured-types/api": "^3.46.12",
+    "gh-pages": "^6.3.0",
     "vite": "^5.4.9",
     "vite-plugin-solid": "^2.10.2"
   }
